@@ -1,2 +1,2 @@
 # NFV-Transforming-IoT-Network-Management
-NFV decouples network functions from proprietary hardware, allowing them to run on standard servers, which enhances flexibility and scalability.
+NFV decouples network functions from proprietary hardware, allowing them to run on standard servers, which enhances flexibility and scalability. NFV enables operators to reduce capital and operational expenditures, accelerate service deployment, and improve network management through software-based solutions. It is distinct from Software Defined Networking (SDN), which focuses on centralized control of networking protocols, while NFV optimizes the network services themselves.
